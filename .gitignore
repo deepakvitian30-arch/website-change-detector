@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+dist/
+.pytest_cache/
+data/*.sqlite
+data/*.db
+data/screenshots/*.png
+data/snapshots/*.txt
+.env
